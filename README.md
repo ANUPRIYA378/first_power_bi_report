@@ -35,17 +35,7 @@ The goal of this Power BI report is to enable data-driven decision-making by:
 - 📦 Product-wise revenue comparison  
 - 👤 Salesperson sales contribution  
 - 📈 Monthly and trend analysis  
-- 📊 KPI cards showing total sales, total boxes sold, etc.
-
----
-
-## 📷 Dashboard Preview
-Add screenshots of your dashboard below to provide a visual preview:
-
-![Sales Dashboard Overview](Screenshot-2025-07-11-140822.png)  
-*Example screenshot of executive summary and key visuals.*
-
-*(Add more screenshots as needed)*
+- 📊 KPI cards showing total sales, total boxes sold etc.
 
 ---
 
