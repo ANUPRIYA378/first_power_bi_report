@@ -1,12 +1,48 @@
-This project is a dynamic Power BI dashboard designed to analyze sales performance across countries, products, and salespersons.
-It includes:
+# 📊 Sales Analysis Dashboard – Power BI Project
 
-🌍 Country-wise sales analysis
+## 📌 Project Overview
+This project is an interactive **Power BI dashboard** designed to analyze sales
+performance across countries, products, and salespersons.
 
-👩‍💼 Salesperson performance metrics
+The dashboard helps stakeholders monitor key metrics, identify trends, and make
+data-driven business decisions.
 
-🛍️ Product-level sales breakdown
+---
 
-📈 Monthly trend visualization
+## 🎯 Business Objective
+The goal of this project is to:
+- Analyze overall sales performance
+- Identify top-performing products and regions
+- Track salesperson performance
+- Understand monthly sales trends
 
-📦 Key KPIs like total boxes sold & sales amount.
+---
+
+## 🧠 Approach
+- Imported raw sales data into Power BI
+- Cleaned and transformed data
+- Built relationships and data model
+- Created calculated measures
+- Designed interactive visuals and slicers
+
+---
+
+## 📊 Dashboard Features
+- 🌍 Country-wise sales analysis  
+- 👤 Salesperson performance metrics  
+- 📦 Product-level sales breakdown  
+- 📈 Monthly sales trend visualization  
+- 📊 KPIs such as total sales and total boxes sold  
+
+---
+
+## 🛠️ Tools & Technologies
+- Power BI  
+- Microsoft Excel  
+- Data Modeling  
+- Data Visualization  
+
+---
+
+## 📁 Project Files
+
