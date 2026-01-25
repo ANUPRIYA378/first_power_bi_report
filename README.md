@@ -1,48 +1,60 @@
-# 📊 Sales Analysis Dashboard – Power BI Project
+# 📊 Power BI Sales Dashboard – Sales Performance Analysis
 
 ## 📌 Project Overview
-This project is an interactive **Power BI dashboard** designed to analyze sales
-performance across countries, products, and salespersons.
+This project is an interactive **Power BI dashboard** built to analyze sales performance
+across countries, products, and salespersons using a chocolate sales dataset.
 
-The dashboard helps stakeholders monitor key metrics, identify trends, and make
-data-driven business decisions.
+The dashboard provides business insights and helps users understand:
+- Overall revenue performance  
+- Product-level sales breakdown  
+- Sales trends over time  
+- High-performing regions and personnel
 
 ---
 
 ## 🎯 Business Objective
-The goal of this project is to:
-- Analyze overall sales performance
-- Identify top-performing products and regions
-- Track salesperson performance
-- Understand monthly sales trends
+The goal of this Power BI report is to enable data-driven decision-making by:
+- Highlighting key sales trends
+- Identifying top-performing products and regions
+- Comparing salesperson performance
+- Focusing on key business metrics such as total sales and boxes sold
 
 ---
 
 ## 🧠 Approach
-- Imported raw sales data into Power BI
-- Cleaned and transformed data
-- Built relationships and data model
-- Created calculated measures
-- Designed interactive visuals and slicers
+1. Imported raw sales data from Excel
+2. Cleaned and shaped the data in Power Query Editor
+3. Built relationships and calculated measures where needed
+4. Designed interactive visuals using Power BI Desktop
+5. Added filters and slicers for dynamic data exploration
 
 ---
 
 ## 📊 Dashboard Features
-- 🌍 Country-wise sales analysis  
-- 👤 Salesperson performance metrics  
-- 📦 Product-level sales breakdown  
-- 📈 Monthly sales trend visualization  
-- 📊 KPIs such as total sales and total boxes sold  
+- 🌍 Country-wise sales performance  
+- 📦 Product-wise revenue comparison  
+- 👤 Salesperson sales contribution  
+- 📈 Monthly and trend analysis  
+- 📊 KPI cards showing total sales, total boxes sold, etc.
 
 ---
 
-## 🛠️ Tools & Technologies
-- Power BI  
-- Microsoft Excel  
-- Data Modeling  
-- Data Visualization  
+## 📷 Dashboard Preview
+Add screenshots of your dashboard below to provide a visual preview:
+
+![Sales Dashboard Overview](Screenshot-2025-07-11-140822.png)  
+*Example screenshot of executive summary and key visuals.*
+
+*(Add more screenshots as needed)*
 
 ---
 
-## 📁 Project Files
+## 🛠️ Tools & Technologies Used
+- **Power BI Desktop** (for building dashboard)
+- **Microsoft Excel** (for raw dataset)
+- Power Query (for data cleaning)
+- DAX measures for calculation logic
 
+---
+
+## 📁 Repository Structure
